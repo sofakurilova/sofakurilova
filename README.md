@@ -3,16 +3,17 @@
 
 ### Обо мне:
 
-Я начинающий аналитик данных. Проходила обучение на karpov.courses. В настоящий момент нахожусь в поисках работы.  
+Я начинающий аналитик данных. В настоящий момент нахожусь в поисках работы.  
   
 
-- 🌵 Завершила курс "Аналитик данных" от karpov.courses.  
+- 🌵 Завершила курс "Аналитик данных" от karpov.courses. 
+- Социальные сети:[![Stepik Badge](https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white)]([https://stepik.org/users/462728131](https://stepik.org/users/58372912?auth=login))
   
 
 ### Технологии:
 
 <div align="left">  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="40" /></a>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
