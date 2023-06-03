@@ -9,7 +9,7 @@
 - 🌵 Завершила курс "Аналитик данных" от karpov.courses.  
   
 
-### Технологии 
+### Технологии:
 
 <div align="left">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
