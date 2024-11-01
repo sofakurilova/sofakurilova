@@ -6,7 +6,6 @@
 Я аналитик данных, в настоящий момент нахожусь в поисках работы.  
   
 
-- 🌵 Завершила курс "Аналитик данных" от karpov.courses. 
 - :iphone: Социальные сети:[![Stepik Badge](https://img.shields.io/badge/-Stepik-black?style=flat&logo=STMicroelectronics&logoColor=white)](https://stepik.org/users/58372912?auth=login)
 - Мои дашборды [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/sofya3550)
 
